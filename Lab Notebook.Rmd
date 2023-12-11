@@ -1,0 +1,34 @@
+---
+title: "Lab Notebook"
+author: Belsare Disease Ecology Lab
+output: html_notebook
+---
+
+Lab members:
+
+- Kayla Alston
+- Ani Belsare
+
+---
+
+#### Things purchased for lab
+Fecal egg count kit
+Lab coats
+Medium gloves
+Paper Towels
+Cheesecloth
+Trash bags
+
+---
+
+#### Things we need to purchase
+Popsicle sticks
+sugar solution
+cheesecloth 
+
+---
+
+#### Remeber to acknowledge
+Adam Wilson
+Dr. Shollie Falkenberg
+
